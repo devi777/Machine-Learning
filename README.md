@@ -1,4 +1,4 @@
-# Udemy-Machine-Learning
+# Machine-Learning
 Practising data pre-processing and visualization using Python &amp; R.
 
 As i was progressing through the course of Machine Learning in Python &amp; R on Udemy, I kept hands-on practising whatever Kiril, 
